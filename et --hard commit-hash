@@ -1,0 +1,222 @@
+[33mcommit 372e76a83481ec308aa0175b436284bdecf4bec3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 20 23:26:10 2024 +0530
+
+    review page updated
+
+[33mcommit c8c35159aa4a8e145ac1194919db63d8128bf00e[m
+Merge: 605552a3 cb812657
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 20 21:57:25 2024 +0530
+
+    Merge branch 'main' of https://github.com/ganesha2208/ecommerce_website
+
+[33mcommit 605552a32b638f2a9234f95d96ecdedd25a3b695[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 20 21:53:23 2024 +0530
+
+    whatsup icon added
+
+[33mcommit 5e2f27204dcbaf27bc5117f7158c752ebafd3e2e[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 20 21:40:28 2024 +0530
+
+    whatsup icon fixed
+
+[33mcommit 0d1d19ea503a8a60e657ed28a0e2b7ca811dba9b[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 20 11:49:31 2024 +0530
+
+    navbar updated for mobile devices
+
+[33mcommit cb812657b8653461897956027c4a7f559ebf4da3[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 19 21:05:55 2024 +0530
+
+    order details maped
+
+[33mcommit 5994e3fc4e9eed65acf569ac798804afa2fc8f87[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 19 12:51:06 2024 +0530
+
+    cart fixed
+
+[33mcommit 8e29a7f38b472902de7ed1c2f0faa5c6fe35edc1[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 18 17:33:08 2024 +0530
+
+    mobile css updated
+
+[33mcommit 0b5d88d7e7a9d4957ef54147129a0ec153f24154[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 18 15:47:41 2024 +0530
+
+    admin pannel updated
+
+[33mcommit 5fbfc2e3eb2357dc2cbe375b3524fd2b5f8474c5[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 18 12:34:25 2024 +0530
+
+    getUserInfo added onclick of ProductInfo
+
+[33mcommit 80d2b7bf570cdfd59b95334529281edd8c13fc8d[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 18 02:31:12 2024 +0530
+
+    search updated
+
+[33mcommit 39ba751e3c2338ba88b4f551b7cfc6944fdd986a[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 18 02:27:14 2024 +0530
+
+    carousel added in phone screens
+
+[33mcommit fad771b239ee2c205951482631c54706170d3c93[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Tue Dec 17 18:08:11 2024 +0530
+
+    AllProduct page and Category page updated for mobile devices
+
+[33mcommit 366cd6fbebc426475b093dbcf42dc0d6cc5f482f[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Tue Dec 17 15:32:00 2024 +0530
+
+    get quote specific updated
+
+[33mcommit 0d9867b2b8f1cf994b9d9fbf38476849a88cf115[m
+Author: ganeshai4m <ganesh@ai4mtech.com>
+Date:   Mon Dec 16 17:59:08 2024 +0530
+
+    carousel added in product info page
+
+[33mcommit 7e300efabd70e4d1e924f0c640f300386ba3528c[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Mon Dec 16 12:34:22 2024 +0530
+
+    cart image updated
+
+[33mcommit 501b3f7aa66c521ab4fe0d4e61688c26735aa8e3[m
+Author: aditi72001 <aditi@ai4mtech.com>
+Date:   Sat Dec 14 15:17:08 2024 +0530
+
+    css for home card done
+
+[33mcommit 504fac8a70870265ea5a455e377e3b1dc86fc677[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Fri Dec 13 17:26:35 2024 +0530
+
+    carousel added
+
+[33mcommit 1d5a945c3f6549f24795e97c307512385a533531[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 12 17:59:05 2024 +0530
+
+    product imgs updated with new schema
+
+[33mcommit 0ff10f4161f54862600f9760cdea9a37bc0fa390[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 12 01:37:56 2024 +0530
+
+    lazy loading added
+
+[33mcommit 005659cf721b80c7c2af15747c1182c97c93f507[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 12 01:03:05 2024 +0530
+
+    HomePageProductCard updated for mobile
+
+[33mcommit c38cd758b25dfb510f50c483aa425a506cecb8d7[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 11 12:39:07 2024 +0530
+
+    responsive for mobile devices
+
+[33mcommit 12c6138da33b3817424db1d06be2ad30dce04436[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Tue Dec 10 17:00:45 2024 +0530
+
+    header updated
+
+[33mcommit 3e22b9723b7d9c9c369234fc29edd8f0ef329548[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Mon Dec 9 17:00:24 2024 +0530
+
+    buttons updated
+
+[33mcommit 0dd58e6b7f622e149e76e5119cc44058b8a1e81d[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Mon Dec 9 12:55:29 2024 +0530
+
+    add product updated
+
+[33mcommit 8c84bcc21bee28a73826d7fa2e4ef6dbe88d3a31[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 5 14:49:03 2024 +0530
+
+    category updated
+
+[33mcommit b931fc8430e87b8f01e895a2efd5496bdea35ad4[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Thu Dec 5 11:54:22 2024 +0530
+
+    razor Pay pages added
+
+[33mcommit 91cdb7eb88063b840aa58e0c6115e6331d836862[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Wed Dec 4 19:35:18 2024 +0530
+
+    phone login added
+
+[33mcommit eeedd86da4a32b7ba9ac1c61b68b70be063807f0[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Tue Dec 3 16:28:17 2024 +0530
+
+    login with phone added
+
+[33mcommit 7c47de1605639ce28e0c3a926467faf432019a86[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Mon Dec 2 15:17:41 2024 +0530
+
+    whatsapp feature added
+
+[33mcommit 46ba37db53a6b5af508d9287b3f8234200dcc1f1[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Mon Dec 2 15:14:54 2024 +0530
+
+    whatsapp feature added
+
+[33mcommit d3c7624150c977211d8f34824061deabffaec4f7[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Sun Dec 1 01:40:53 2024 +0530
+
+    google log in added
+
+[33mcommit ba78deeb345b2777f9e74a6d4057e13982e51329[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Sun Dec 1 01:08:22 2024 +0530
+
+    goodle sign in added
+
+[33mcommit b1ba3a5e2deaca6d865f33cf334389f0a1be1af1[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Sat Nov 30 16:35:32 2024 +0530
+
+    vercel.json added
+
+[33mcommit a466bfb3a2ab831fdc4592920e399ab4f68fe829[m
+Author: ganesha2208 <114673520+ganesha2208@users.noreply.github.com>
+Date:   Sat Nov 30 16:19:04 2024 +0530
+
+    Delete node_modules directory
+
+[33mcommit 9e54bb2b7642582a5d8c7fa2bb71b8f26734d5bc[m
+Author: ganesha2208 <ganeshadream11@gmail.com>
+Date:   Sat Nov 30 15:40:43 2024 +0530
+
+    yu
+
+[33mcommit 16747ae018819b0aab34fecee2cee00189a36f5d[m
+Author: ganesha2208 <114673520+ganesha2208@users.noreply.github.com>
+Date:   Sat Nov 30 15:27:12 2024 +0530
+
+    Initial commit

@@ -1,0 +1,13 @@
+@media (max-width: 640px) { /* Targeting mobile devices */
+  .basic-main-div {
+    padding: 4px; /* Reduce padding */
+  }
+
+  .basic-main-div ul {
+    space-y-3; /* Reduce space between list items */
+  }
+
+  .basic-main-div li {
+    padding: 2px; /* Reduce padding for list items */
+  }
+} 

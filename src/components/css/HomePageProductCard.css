@@ -1,0 +1,37 @@
+@media (max-width: 568px) {
+  .index-div {
+    padding: 5px;
+    /* border: 2px solid red; */
+    width: 50%;
+  }
+  .img {
+    display: flex;
+    height: auto;
+    max-height: 140px;
+    /* border: 2px solid blue;` */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .text-center {
+    font-size: 1rem;
+  }
+  .container {
+    padding: 10px;
+  }
+  .flex-wrap {
+    flex-direction: row;
+  }
+  .price-position {
+    
+    margin-top: -10px;
+    /* border: 2px solid red; */
+    
+  }
+   
+  .product-font {
+    font-size: 0.65rem;
+  }
+   
+}
+

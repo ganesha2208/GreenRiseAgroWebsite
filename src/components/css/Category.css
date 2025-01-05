@@ -1,0 +1,19 @@
+.main-div
+{
+    
+}
+@media only screen and (min-width: 2560px) {
+    .main-div {
+    
+        /* border: 3px solid fuchsia; */
+        padding-left: 28rem;
+        padding-top: 1rem;
+    }
+}
+@media screen and (max-width: 1536px) {
+    .category-name {
+        
+        
+        /* border: 1px solid red; */
+    }
+}

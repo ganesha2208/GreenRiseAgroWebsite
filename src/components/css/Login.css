@@ -1,0 +1,20 @@
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .login_Form {
+      width: 100%;
+      max-width: 90%;
+      padding: 1.5rem;
+      border-radius: 0.75rem;
+    }
+    input {
+      font-size: 16px;
+      padding: 0.75rem;
+      border-radius: 0.5rem;
+    }
+    button {
+      font-size: 16px;
+      padding: 0.75rem;
+      border-radius: 0.5rem;
+    }
+  }
+  

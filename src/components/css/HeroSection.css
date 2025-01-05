@@ -1,0 +1,27 @@
+@media (max-width: 568px) {
+    .carousel-container {
+        width: 100%;
+        height: auto;
+    }
+
+    .carousel-image {
+        height: 200px !important;
+        object-fit: cover;
+        object-position: center;
+    }
+/* }@media (min-width: 1080px) and (max-width: 1440px) { */
+}@media (min-width: 1080px) and (max-width: 1920px) {
+    .carousel-image {
+        /* height: 650px !important; */
+        height: 90dvh !important;
+        /* object-fit: cover; */
+        object-position: top center;
+        /* border: 2px solid firebrick; */
+    }
+    .carousel-container {
+        width: 100%;
+        height: auto;
+    }
+}
+
+  
